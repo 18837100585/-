@@ -1,0 +1,32 @@
+//
+//  LovePrefixHeader.pch
+//  ProjectA
+//
+//  Created by laouhn on 16/4/6.
+//  Copyright © 2016年 Seastar. All rights reserved.
+//
+
+#ifndef LovePrefixHeader_pch
+#define LovePrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
+
+#import "UMSocial.h"
+
+#import "ConstantHeader.h"
+#import "NetWorkRequestManager.h"
+#import "RequestUrl.h"
+#import "UIImageView+AFNetworking.h"
+#import "AutoScrollView.h"
+#import "SVPullToRefresh.h"
+#import "UserLoad.h"
+#import "LoginViewController.h"
+#import "UserModel.h"
+
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* LovePrefixHeader_pch */
